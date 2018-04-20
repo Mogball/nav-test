@@ -1,0 +1,3 @@
+/home/jeffniu22/Code/NavTest/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/jeffniu22/Code/NavTest/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/jeffniu22/Code/NavTest/cmake-build-debug/CMakeFiles/NavTest.dir
